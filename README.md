@@ -56,13 +56,10 @@ ii. Provide those keys by running “aws configure”.
  terraform plan --var-file=variables.tfvars
 ```
 
-![](https://miro.medium.com/v2/resize:fit:700/1*0clTIhDEepW4Ptj_hptaKA.png)
 
 ```go
  terraform apply--var-file=variables.tfvars
 ```
-
-![](https://miro.medium.com/v2/resize:fit:700/1*wqaBKHS3z-Q3iOzI7AQ-BA.png)
 
 6\. If everything goes right this will create an instance in AWS console.
 
@@ -110,9 +107,7 @@ ii. Then configure and test it.
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*F6O7bZQ8DijkKfVErZrQgw.png)
 
-This will send you a mail like this.
-
-![](https://miro.medium.com/v2/resize:fit:700/1*CZuznvBXzRJcTR8OWMU_dA.png)
+This will send you a mail.
 
 Now login to the sonarqube
 
